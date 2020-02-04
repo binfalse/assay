@@ -10,5 +10,5 @@ for filename in os.listdir(directory):
     sounds.append (os.path.join(directory, filename))
 
 for i in sys.argv[1]:
-  print (i)
+  #print (i)
   playsound(sounds[ord(i) % len (sounds)])
