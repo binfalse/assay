@@ -17,7 +17,7 @@ Like an essay, but by an ass. Inspired by an [Regular Old Bean](https://octodon.
 Farts found at [Fart Sounds from soundbible.com](http://soundbible.com/tags-fart.html):
 
 | Sound Effect                                                                  | License           |
------------------------------------------------------------------------------------------------------
+|-------------------------------------------------------------------------------|-------------------|
 | [Fart Squeeze Knees ](http://soundbible.com/2151-Fart-Squeeze-Knees.html)     | Attribution 3.0   |
 | [Common Fart ](http://soundbible.com/2150-Common-Fart.html)                   | Attribution 3.0   |
 | [Flush Toilet 2 ](http://soundbible.com/2114-Flush-Toilet--2.html)            | Attribution 3.0   |
